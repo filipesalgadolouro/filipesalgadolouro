@@ -1,16 +1,16 @@
-## Hi there 👋
+## Filipe Louro
 
-<!--
-**filipesalgadolouro/filipesalgadolouro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder who still writes the code.
 
-Here are some ideas to get you started:
+**Building** [Travel Riders](https://travel-riders.com), a global motorcycle
+route planner. I design, build and ship it myself: frontend, API and content
+pipeline.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Leading** a 16-person product and engineering team on a platform for
+building web portals.
+
+**Working with AI agents in production, not in slides.** I build agent skills
+and gate them the way I gate any other software: test sets, pass thresholds,
+no release without passing.
+
+Previously Head of Engineering at Landbot.
